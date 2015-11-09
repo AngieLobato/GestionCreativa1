@@ -12,6 +12,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h1 class='text-center'>Best Childs Magazine</h1>
+					<?=base_url();?>
 				</div>
 			</div>
 		</div>

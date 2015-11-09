@@ -5,7 +5,7 @@
         function Home()
         {
             parent::__construct();
-            $this->load->helper(array("url", "form", "language"));                               
+            $this->load->helper("url");                               
         }
         
         public function index()
