@@ -5,12 +5,18 @@
         function Home()
         {
             parent::__construct();
-            $this->load->helper('url');                              
+            $this->load->helper('url');                             
         }
         
         public function index()
         {
+            $this->load->view('Menu');
             $this->load->view('Home');
+        }
+
+        public function Articulos()
+        {
+            redirect('Articulos');
         }
     }
     

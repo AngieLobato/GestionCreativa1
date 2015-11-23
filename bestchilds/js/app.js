@@ -1,3 +1,5 @@
 $(document).ready(function(){	
-    alert("");
+    var page = $("#page").val();
+    $("#"+page).removeAttr("href");
+    $("#link"+page).addClass("active");
 });
