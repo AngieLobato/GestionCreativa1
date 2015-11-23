@@ -65,7 +65,7 @@
 				<div class="col-md-12">
 					<h1 class='text-center'>Best Childss Magazine</h1>
 					<?=base_url();?>
-                    <p style="display: red; height: 400px; width:1200px; background-color: gray;"></p>
+                    <p style="display: red;background-color: gray;"></p>
 				</div>
                 
                 
