@@ -14,7 +14,7 @@
 	<body>
         <span class="up-page icon-arrow-up"></span>      
 		<div class="container" >
-    <input type="hidden" id="page" value="home"  />            
+            <input type="hidden" id="page" value="home"  />            
 			<div class="row" >
 				<div class="col-md-12">
 					<h1 class='text-center'>Best Childss Magazine</h1>
@@ -48,8 +48,7 @@
                 
 			</div>
 		</div>
-		<script src="<?=base_url();?>js/jquery.min.js" type="text/javascript"></script>
-        
+		<script src="<?=base_url();?>js/jquery.min.js" type="text/javascript"></script>        
     <script src="<?=base_url();?>js/bootstrap.min.js" type="text/javascript"></script>
     <script src="<?=base_url();?>js/app.js" type="text/javascript"></script>
 	</body>
