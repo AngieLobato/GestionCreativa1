@@ -10,6 +10,7 @@
         
         public function index()
         {
+            $this->load->view('Menu');
             $this->load->view('Articulos');
         }
     }
