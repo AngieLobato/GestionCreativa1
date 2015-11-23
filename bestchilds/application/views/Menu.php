@@ -15,7 +15,7 @@
                 <li id="linkhome"><a id="home" href="<?=site_url();?>/Home/Index">Inicio</a></li>
                 <li id="linkwho"><a id="who" href="#">Quienes Somos</a></li>
                 <li id="linkpub"><a id="pub" href="<?=site_url();?>/Publicacion/Index">Publicaciones</a></li>
-                <li id="linkcli"><a id="cli" href="#">Clientes</a></li>
+                <li id="linkcli"><a id="cli" href="<?=site_url();?>/cliente/Index">Clientes</a></li>
                 <li id="linkarti"><a id="arti" href="<?=site_url();?>/Articulos/Index">Articulos</a></li>
                 <li id="linkcontac"><a id="contac" href="#">Contactos</a></li>
             </li>
