@@ -27,16 +27,17 @@
                 
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a>Inicio</a></li>
                         <li><a href="#">Quienes Somos</a></li>
                         <li><a href="#">Publicaciones</a></li>
                         <li><a href="#">Clientes</a></li>
-                        <li><a href="#">Articulos</a></li>
+                        <li><a href="<?=site_url();?>/Articulos/Index">Articulos</a></li>
                         <li><a href="#">Contactos</a></li>
                     </li>
                   </ul>
                 </div><!-- /.navbar-collapse -->
               </div><!-- /.container-fluid -->
-</nav>
+        </nav>
 		<div class="container" >
             
 			<div class="row" >

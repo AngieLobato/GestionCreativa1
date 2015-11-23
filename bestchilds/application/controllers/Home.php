@@ -12,6 +12,11 @@
         {
             $this->load->view('Home');
         }
+
+        public function Articulos()
+        {
+            redirect('Articulos');
+        }
     }
     
 ?>
