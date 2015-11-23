@@ -23,37 +23,15 @@
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="#">Logo</a>
-                </div>
-                
+                </div>                
                 
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#">Link1</a></li>
-                        <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            Dropdown <span class="caret"</span>
-                        </a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something else here</a></li>
-                                <li role="separator" class="divider"></li>
-                                <li><a href="#">Separated link</a></li>
-                                <li role="separator" class="divider"></li>
-                                <li><a href="#">One more separated link</a></li>
-                            </ul>
-                        </li>
-                    <li><a href="#">Link2</a></li>
-                    <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                          Dropdown <span class="caret"></span></a>
-                      <ul class="dropdown-menu">
-                        <li><a href="#">Action</a></li>
-                        <li><a href="#">Another action</a></li>
-                        <li><a href="#">Something else here</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li><a href="#">Separated link</a></li>
-                      </ul>
+                        <li><a href="#">Quienes Somos</a></li>
+                        <li><a href="#">Publicaciones</a></li>
+                        <li><a href="#">Clientes</a></li>
+                        <li><a href="#">Articulos</a></li>
+                        <li><a href="#">Contactos</a></li>
                     </li>
                   </ul>
                 </div><!-- /.navbar-collapse -->
