@@ -1,17 +1,17 @@
-<nav class="navbar navbar-default">
+<nav style="opacity : 0.9" role="navigation" class="navbar navbar-inverse ">
     <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <div class="navbar-inverse">
+         <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Logo</a>
+         
         </div>                
         
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
                 <li id="linkhome"><a id="home" href="<?=site_url();?>/Home/Index">Inicio</a></li>
                 <li id="linkwho"><a id="who" href="#">Quienes Somos</a></li>
                 <li id="linkpub"><a id="pub" href="<?=site_url();?>/Publicacion/Index">Publicaciones</a></li>

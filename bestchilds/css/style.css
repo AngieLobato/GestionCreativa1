@@ -1,3 +1,20 @@
+#bg{
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:-1;
+    width: 100%; 
+    height: 100% ;
+}
+.navbar-inverse{
+z-index: 10;
+    float: left;
+    width: 100%;
+}
+
+body{
+    padding: 20px;
+}
 
 
 .container-fluid{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
@@ -32,10 +49,14 @@ width: 100%;
 }
 
 #footer {
-  height: 60px;
-  background-color: gainsboro;
-  margin-top:50px;
-  padding-top:20px;
-  padding-bottom:20px;
+    opacity: 0.8;
+    background:#ffab62;
+	width:100%;
+	position:absolute;
+	bottom:0;	left:0;
+  position:absolute;
+  height: 50px;
+  background-color: #101010;
+  padding-top:15px;
 }
 

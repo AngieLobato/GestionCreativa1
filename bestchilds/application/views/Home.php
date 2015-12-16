@@ -13,44 +13,10 @@
         <script src="<?=base_url();?>js/jqueryUp.js" type="text/javascript"></script>
 	</head>
 	<body>
+        <img id="bg" src="<?=base_url();?>images/background.jpg"  alt="background" />	
         <span class="up-page icon-arrow-up"></span>      
-		<div class="container" >
-            <input type="hidden" id="page" value="home"  />            
-			<div class="row" >
-				<div class="col-md-12">
-					<h1 class='text-center'>Best Childss Magazine</h1>
-					
-                    <p class="img-responsive" style="display: red; height: 400px; width:1200px;background-color: gainsboro;"></p>
-				</div>
-                
-                
-                    <div class="col-md-4" style="text-align: justify;" >
-                        <h1 class='text-center' ><i class="fa fa-globe"></i><br>Mision</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-                       <p style="text-align: right;"><a href="#">One link</a></p> 
-                        
-                    </div>
-                     <div class="col-md-4" >
-                        <h1 class='text-center' ><i class="fa fa-eye"></i><br>Visión</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-                       <p style="text-align: right;"><a href="#">One link</a></p> 
-                    </div>
-
-                     <div class="col-md-4" >
-                        <h1 class='text-center' ><i class="fa fa-users"></i><br>contacto</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-                       <p style="text-align: right;"><a href="#">One link</a></p> 
-                    </div>
-                <div class="xyz" >
-					<h1 class='text-center'>Best Childss Magazine</h1>
-                    Best Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest Childss MagazineBest  Childss Magazine
-					<?=base_url();?>
-				</div>
-                
-			</div>
-           
-		</div>
-        <div id="footer">
+		
+        <div id="footer" >
             <div class="container">
                 <p class="text-muted text-center"></a>
                     <i class="fa fa-facebook    fa-2x"></i>
